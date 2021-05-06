@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\LineCamparison\LineCamparison\bin\Debug\netcoreapp3.1\LineCamparison.exe
+C:\Users\Admin\Documents\LineCamparison\LineCamparison\bin\Debug\netcoreapp3.1\LineCamparison.deps.json
+C:\Users\Admin\Documents\LineCamparison\LineCamparison\bin\Debug\netcoreapp3.1\LineCamparison.runtimeconfig.json
+C:\Users\Admin\Documents\LineCamparison\LineCamparison\bin\Debug\netcoreapp3.1\LineCamparison.runtimeconfig.dev.json
+C:\Users\Admin\Documents\LineCamparison\LineCamparison\bin\Debug\netcoreapp3.1\LineCamparison.dll
+C:\Users\Admin\Documents\LineCamparison\LineCamparison\bin\Debug\netcoreapp3.1\LineCamparison.pdb
+C:\Users\Admin\Documents\LineCamparison\LineCamparison\obj\Debug\netcoreapp3.1\LineCamparison.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\LineCamparison\LineCamparison\obj\Debug\netcoreapp3.1\LineCamparison.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\LineCamparison\LineCamparison\obj\Debug\netcoreapp3.1\LineCamparison.AssemblyInfo.cs
+C:\Users\Admin\Documents\LineCamparison\LineCamparison\obj\Debug\netcoreapp3.1\LineCamparison.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\LineCamparison\LineCamparison\obj\Debug\netcoreapp3.1\LineCamparison.dll
+C:\Users\Admin\Documents\LineCamparison\LineCamparison\obj\Debug\netcoreapp3.1\LineCamparison.pdb
+C:\Users\Admin\Documents\LineCamparison\LineCamparison\obj\Debug\netcoreapp3.1\LineCamparison.genruntimeconfig.cache

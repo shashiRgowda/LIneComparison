@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\LineCamparison\UC1_LineComparison\bin\Debug\netcoreapp3.1\UC1_LineComparison.exe
+C:\Users\Admin\Documents\LineCamparison\UC1_LineComparison\bin\Debug\netcoreapp3.1\UC1_LineComparison.deps.json
+C:\Users\Admin\Documents\LineCamparison\UC1_LineComparison\bin\Debug\netcoreapp3.1\UC1_LineComparison.runtimeconfig.json
+C:\Users\Admin\Documents\LineCamparison\UC1_LineComparison\bin\Debug\netcoreapp3.1\UC1_LineComparison.runtimeconfig.dev.json
+C:\Users\Admin\Documents\LineCamparison\UC1_LineComparison\bin\Debug\netcoreapp3.1\UC1_LineComparison.dll
+C:\Users\Admin\Documents\LineCamparison\UC1_LineComparison\bin\Debug\netcoreapp3.1\UC1_LineComparison.pdb
+C:\Users\Admin\Documents\LineCamparison\UC1_LineComparison\obj\Debug\netcoreapp3.1\UC1_LineComparison.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\LineCamparison\UC1_LineComparison\obj\Debug\netcoreapp3.1\UC1_LineComparison.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\LineCamparison\UC1_LineComparison\obj\Debug\netcoreapp3.1\UC1_LineComparison.AssemblyInfo.cs
+C:\Users\Admin\Documents\LineCamparison\UC1_LineComparison\obj\Debug\netcoreapp3.1\UC1_LineComparison.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\LineCamparison\UC1_LineComparison\obj\Debug\netcoreapp3.1\UC1_LineComparison.dll
+C:\Users\Admin\Documents\LineCamparison\UC1_LineComparison\obj\Debug\netcoreapp3.1\UC1_LineComparison.pdb
+C:\Users\Admin\Documents\LineCamparison\UC1_LineComparison\obj\Debug\netcoreapp3.1\UC1_LineComparison.genruntimeconfig.cache
